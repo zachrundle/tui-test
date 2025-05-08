@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/zrundle/tui-test/cmd"
+	"github.com/zachrundle/tui-test/cmd"
 )
 func main() {
 	cmd.Execute()
